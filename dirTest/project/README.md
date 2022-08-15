@@ -1,6 +1,18 @@
 <h1> EVALUACIÓN 1 </h1>
 Correr linux en la usb, clonar el repositorio, realizar cambios y hacer uso de los comandos git para crear un commit
 
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <tittle>Evaluacion1</tittle>
+    </head>
+    <body>
+        <center><h1>color Cde fondo</h1></center>
+        <body bgcolor="#18C898">
+    <img src="https://crash.fandom.com/es/wiki/Papu_Papu" alt="">
+    </body>
+</html>
 
 https://github.com/hacUPB/evaluacion-1-ElJuanes
 
