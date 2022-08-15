@@ -1,6 +1,6 @@
 <h1> EVALUACIÓN 1 </h1>
 Correr linux en la usb, clonar el repositorio, realizar cambios y hacer uso de los comandos git para crear un commit
-![](Imagenes/radar.jpg))
+![](Imagenes/radar)
 
 https://github.com/hacUPB/evaluacion-1-ElJuanes
 
