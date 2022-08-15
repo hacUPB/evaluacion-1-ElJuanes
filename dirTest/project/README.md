@@ -4,7 +4,7 @@ Correr linux en la usb, clonar el repositorio, realizar cambios y hacer uso de l
 
 https://github.com/hacUPB/evaluacion-1-ElJuanes
 
-Lisado comados git hub:
+Listado de comados git hub:
 1.
 Cd (entrar carpetas)
 2.
@@ -18,12 +18,12 @@ git clone (clonar repositorio-sincronicar con el repositorio)
 
 (adicionar wcat.c al stage 6 y 7)
 6.
-git add (adicionar carpetas)
+git add (añadir carpetas)
 7.
 git init (Crear un stage)
 8.
 git commit (crar el commit)
 9.
-git log (verificar la creacion del commit)
+git log (Verificar creación del commit)
 
 
